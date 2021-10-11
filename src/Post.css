@@ -1,0 +1,12 @@
+div.card-body{
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+  
+  }
+  button{
+     background-color: rgb(199, 199, 231);
+     color: crimson;
+    align-self: center;
+  }

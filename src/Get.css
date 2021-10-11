@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+
+div.card-body{
+  text-align: center;
+  background-color: rgb(173, 211, 218);
+  color: rgba(228, 9, 111, 0.952);
+  margin-left: 50px;
+  margin-right: 50px;
+
+}
+button{
+align-self: center;
+}

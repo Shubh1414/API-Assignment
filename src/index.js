@@ -1,12 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+
+
+import Post from './Post'
+import Get from './Get'
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    {/* <App /> */}
+    <Get />
+    <Post />
   </React.StrictMode>,
   document.getElementById('root')
 );
